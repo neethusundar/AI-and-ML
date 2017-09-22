@@ -1,4 +1,4 @@
-# AI-and-ML
+# Implementation of Knn from scratch
 Program description
 •	Input(s) in command line : filename.py, directory path, value of k 
 •	Output(s) in command line : accuracy values for each test set, average accuracy for value of k
